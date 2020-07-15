@@ -1,0 +1,5 @@
+{
+    "accounts": [
+        {"id": 1, "name":"Andre Luiz Santos de Carvalho", "balance":100}
+    ]
+}
